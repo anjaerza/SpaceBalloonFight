@@ -1,0 +1,7 @@
+force 2 lives = 5
+force 1 live = 3
+
+drag 2 lives = 1
+drag 1 live = 0
+
+force x = 3
